@@ -55,4 +55,5 @@ M4 0.09006273724141313 0.049003299806151646 0.07097774859343615 0.10823876908323
 Naudota formulė: sqrt(sum(pow(xi - yi),2)), kai i = visų kodonų/dikodonų skaičius
 
 Palyginimas.
+
 Atsisžvelgiant į sugeneruotus medžius, galima pamatyti, kad bakterijų bei žinduolių kodonų ir dikodonų dažniai yra skirtingi, tačiau ne visiškai, nes į bakterijų klasterį patenka ir žinduoliai, o į žinduolių klasterį patenka ir bakterijos. 
