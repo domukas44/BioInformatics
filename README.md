@@ -1,6 +1,8 @@
 # BioInformatics
 Dominyko Jovaišos bioinformatikos projektai
 
+Ataskaita
+
 1 laboratorinis darbas
 
 Pateiktoje sekoje fasta formatu surastu visas start ir stop kodonų poras, tarp kurių nebutu stop kodono (ir tiesioginei sekai ir jos reverse komplementui). 
@@ -49,3 +51,8 @@ M2 0.07045585894067014 0.03485762720561546 0.051571657458253324 0.09129867295885
 M3 0.04604802323442663 0.05283371864599968 0.05317377508906526 0.07110640614033724 0.05571147098601104 0.07432087419862739 0.0 0.08750624932510849
 
 M4 0.09006273724141313 0.049003299806151646 0.07097774859343615 0.1082387690832318 0.07795207879248489 0.035416263725871436 0.08750624932510849 0.0
+
+Naudota formulė: sqrt(sum(pow(xi - yi),2)), kai i = visų kodonų/dikodonų skaičius
+
+Palyginimas
+Atsisžvelgiant į sugeneruotus medžius, galima pamatyti, kad bakterijų bei žinduolių kodonų ir dikodonų dažniai yra skirtingi, tačiau ne visiškai, nes į bakterijų klasterį patenka ir žinduoliai, o į žinduolių klasterį patenka ir bakterijos. 
