@@ -1,0 +1,213 @@
+
+
+   /-MN514967.1DromedarycamelcoronavirusHKU23isolateDcCoV-HKU23/camel/Nigeria/NV1385/2016
+  |
+  |         /-LC556375.1Severeacuterespiratorysyndrome-relatedcoronavirusRc-o319RNA
+  |        |
+  |      /-|   /-MZ081376.1Betacoronavirussp.RmYN05strainbat/Yunnan/RmYN05/2020
+  |     |  |  |
+  |     |   \-|   /-MT040335.1PangolincoronavirusisolatePCoV_GX-P5L
+  |     |     |  |
+  |     |      \-|   /-MT121216.1PangolincoronavirusisolateMP789
+  |     |        |  |
+  |     |        |  |      /-OK017805.1Sarbecovirussp.isolateHN2021G
+  |     |         \-|   /-|
+  |     |           |  |  |   /-OK017803.1Sarbecovirussp.isolateHN2021A
+  |     |           |  |   \-|
+  |     |           |  |     |   /-MG772933.1BatSARS-likecoronavirusisolatebat-SL-CoVZC45
+  |     |            \-|      \-|
+  |     |              |         \-MG772934.1BatSARS-likecoronavirusisolatebat-SL-CoVZXC21
+  |     |              |
+  |     |              |   /-MW251308.1BatcoronavirusRacCS203
+  |     |              |  |
+  |     |               \-|   /-MN996532.2BatcoronavirusRaTG13
+--|     |                 |  |
+  |   /-|                 |  |      /-HG994853.1Severeacuterespiratorysyndrome-relatedcoronavirusisolateH_SC_02genomeassembly
+  |  |  |                  \-|   /-|
+  |  |  |                    |  |  |   /-HG994860.1Severeacuterespiratorysyndrome-relatedcoronavirusisolateH_SC_11genomeassembly
+  |  |  |                    |  |   \-|
+  |  |  |                    |  |     |   /-HG994856.1Severeacuterespiratorysyndrome-relatedcoronavirusisolateH_SC_07genomeassembly
+  |  |  |                     \-|      \-|
+  |  |  |                       |         \-NC_045513.2Severeacuterespiratorysyndromecoronavirus2isolateWuhan-Hu-1
+  |  |  |                       |
+  |  |  |                       |   /-OK017806.1Sarbecovirussp.isolateYN2021
+  |  |  |                        \-|
+  |  |  |                          |   /-MZ081381.1Betacoronavirussp.RpYN06strainbat/Yunnan/RpYN06/2020
+  |  |  |                           \-|
+  |  |  |                              \-MW703458.1Sarbecovirussp.isolatePrC31
+  |  |  |
+  |  |  |      /-MZ190138.1BatSARS-likecoronavirusKhosta-2strainBtCoV/Khosta-2/Rh/Russia/2020
+  |  |  |   /-|
+  |  |  |  |   \-MW719567.1SarbecovirusRhGB01
+  |  |  |  |
+  |  |   \-|      /-MZ190137.1BatSARS-likecoronavirusKhosta-1strainBtCoV/Khosta-1/Rh/Russia/2020
+  |  |     |   /-|
+   \-|     |  |   \-GU190215.1BatcoronavirusBM48-31/BGR/2008
+     |      \-|
+     |        |   /-MT726045.1Sarbecovirussp.isolatePREDICT/PRD-0038/AABSMF
+     |         \-|
+     |            \-KY352407.1Severeacuterespiratorysyndrome-relatedcoronavirusstrainBtKY72
+     |
+     |   /-MK211374.1CoronavirusBtRl-BetaCoV/SC2018
+     |  |
+     |  |            /-KY770860.1Sarbecovirussp.isolateJiyuan-84
+     |  |         /-|
+     |  |        |  |   /-DQ648856.1Batcoronavirus
+     |  |        |   \-|
+     |  |      /-|      \-DQ412042.1BatSARScoronavirusRf1
+     |  |     |  |
+     |  |     |  |   /-KJ473813.1BtRf-BetaCoV/SX2013
+     |  |     |   \-|
+     |  |   /-|     |   /-OK017799.1Sarbecovirussp.isolateLN2020G
+     |  |  |  |      \-|
+     |  |  |  |         \-KY938558.1Sarbecovirussp.strain16BO133
+     |  |  |  |
+      \-|  |  |   /-OK017846.1Sarbecovirussp.isolateSC2018B
+        |  |   \-|
+        |  |      \-JX993987.1BatcoronavirusRp/Shaanxi2011
+        |  |
+        |  |         /-OK017835.1Sarbecovirussp.isolateHN2021F
+        |  |      /-|
+        |  |     |   \-OK017834.1Sarbecovirussp.isolateHN2021E
+        |  |     |
+        |  |   /-|      /-KJ473814.1BtRs-BetaCoV/HuB2013
+        |  |  |  |   /-|
+        |  |  |  |  |   \-MZ328294.1JingmenRhinolophussinicusbetacoronavirus1
+        |  |  |   \-|
+        |  |  |     |   /-DQ412043.1BatSARScoronavirusRm1
+        |  |  |     |  |
+        |  |  |      \-|      /-OK017833.1Sarbecovirussp.isolateHN2021D
+         \-|  |        |   /-|
+           |  |        |  |   \-OK017859.1Sarbecovirussp.isolateGX2019A
+           |  |         \-|
+           |  |           |   /-OK017860.1Sarbecovirussp.isolateJX2021D
+           |  |            \-|
+           |  |               \-OK017832.1Sarbecovirussp.isolateHN2021C
+           |  |
+           |  |         /-OK017841.1Sarbecovirussp.isolateJX2021L
+           |  |      /-|
+           |  |     |  |   /-OK017842.1Sarbecovirussp.isolateJX2021M
+           |  |     |   \-|
+           |  |     |      \-OK017843.1Sarbecovirussp.isolateJX2021N
+           |  |     |
+           |  |     |      /-OK017823.1Sarbecovirussp.isolateGD2017Q
+           |  |     |     |
+           |  |     |     |      /-OK017819.1Sarbecovirussp.isolateGD2017M
+           |  |     |     |   /-|
+           |  |     |     |  |  |   /-OK017820.1Sarbecovirussp.isolateGD2017N
+           |  |     |     |  |   \-|
+            \-|     |     |  |      \-OK017812.1Sarbecovirussp.isolateGD2016B
+              |     |   /-|  |
+              |     |  |  |  |            /-GQ153542.1BatSARScoronavirusHKU3-7
+              |     |  |  |  |         /-|
+              |   /-|  |  |  |        |  |   /-GQ153547.1BatSARScoronavirusHKU3-12
+              |  |  |  |  |  |        |   \-|
+              |  |  |  |  |  |      /-|      \-MT782115.1MutantBatSARScoronavirusHKU3isolateicHKU3-SRBD-MA
+              |  |  |  |  |  |     |  |
+              |  |  |  |   \-|     |  |   /-OK017808.1Sarbecovirussp.isolateFJ2021A
+              |  |  |  |     |     |  |  |
+              |  |  |  |     |     |   \-|   /-OK017837.1Sarbecovirussp.isolateJX2021C
+              |  |  |  |     |     |     |  |
+              |  |  |  |     |     |     |  |         /-OK017839.1Sarbecovirussp.isolateJX2021J
+              |  |  |  |     |     |      \-|      /-|
+              |  |  |  |     |   /-|        |   /-|   \-OK017840.1Sarbecovirussp.isolateJX2021K
+              |  |  |  |     |  |  |        |  |  |
+              |  |  |  |     |  |  |         \-|   \-OK017838.1Sarbecovirussp.isolateJX2021G
+              |  |  |  |     |  |  |           |
+              |  |  |  |     |  |  |           |   /-OK017844.1Sarbecovirussp.isolateJX2021O
+              |  |   \-|     |  |  |            \-|
+              |  |     |      \-|  |               \-OK017845.1Sarbecovirussp.isolateJX2021P
+              |  |     |        |  |
+              |  |     |        |  |   /-OK017809.1Sarbecovirussp.isolateFJ2021D
+              |  |     |        |   \-|
+              |  |     |        |      \-OK017811.1Sarbecovirussp.isolateFJ2021M
+              |  |     |        |
+               \-|     |        |   /-OK017807.1Sarbecovirussp.isolateAH2021A
+                 |     |         \-|
+                 |     |           |   /-OK017836.1Sarbecovirussp.isolateJX2021AC
+                 |     |            \-|
+                 |     |              |   /-OK017801.1Sarbecovirussp.isolateHB2020D
+                 |     |               \-|
+                 |     |                  \-OK017802.1Sarbecovirussp.isolateHB2020E
+                 |     |
+                 |     |      /-OK017824.1Sarbecovirussp.isolateGD2017W
+                 |     |   /-|
+                 |     |  |   \-OK017828.1Sarbecovirussp.isolateGD2019E
+                 |      \-|
+                 |        |   /-OK017827.1Sarbecovirussp.isolateGD2019D
+                 |         \-|
+                 |            \-OK017825.1Sarbecovirussp.isolateGD2019A
+                 |
+                 |   /-KJ473815.1BtRs-BetaCoV/GX2013
+                 |  |
+                 |  |      /-DQ071615.1BatSARScoronavirusRp3
+                 |  |   /-|
+                 |  |  |  |   /-OK017829.1Sarbecovirussp.isolateGZ2021C
+                 |  |  |   \-|
+                 |  |  |     |   /-OK017831.1Sarbecovirussp.isolateGZ2021I
+                  \-|  |      \-|
+                    |  |         \-OK017830.1Sarbecovirussp.isolateGZ2021H
+                    |  |
+                    |  |            /-MK062183.1SARScoronavirusUrbaniisolateicSARS-C7
+                    |  |         /-|
+                    |  |      /-|   \-MT308984.1MutantSARScoronavirusUrbanicloneSARS-Urbani-MA_SHC014-spike
+                    |  |     |  |
+                    |  |   /-|   \-KP886808.1BatSARS-likecoronavirusYNLF_31C
+                     \-|  |  |
+                       |  |  |   /-JX993988.1BatcoronavirusCp/Yunnan2011
+                       |  |   \-|
+                       |  |     |   /-MZ081382.1Betacoronavirussp.RsYN09strainbat/Yunnan/RsYN09/2020
+                       |  |      \-|
+                       |  |        |   /-KF569996.1RhinolophusaffiniscoronavirusisolateLYRa11
+                       |  |         \-|
+                       |  |            \-MZ081377.1Betacoronavirussp.RmYN07strainbat/Yunnan/RmYN07/2020
+                       |  |
+                       |  |      /-MZ081379.1Betacoronavirussp.RsYN03strainbat/Yunnan/RsYN03/2019
+                       |  |     |
+                       |  |     |      /-KY770858.1Sarbecovirussp.isolateAnlong-103
+                        \-|     |     |
+                          |     |     |      /-MK211376.1CoronavirusBtRs-BetaCoV/YN2018B
+                          |   /-|   /-|   /-|
+                          |  |  |  |  |  |  |   /-MK211378.1CoronavirusBtRs-BetaCoV/YN2018D
+                          |  |  |  |  |  |   \-|
+                          |  |  |  |   \-|      \-MK211377.1CoronavirusBtRs-BetaCoV/YN2018C
+                          |  |  |  |     |
+                          |  |  |  |     |   /-KC881005.1BatSARS-likecoronavirusRsSHC014
+                          |  |   \-|      \-|
+                          |  |     |         \-KJ473816.1BtRs-BetaCoV/YN2013
+                          |  |     |
+                          |  |     |      /-OK017855.1Sarbecovirussp.isolateYN2020E
+                          |  |     |   /-|
+                           \-|     |  |  |   /-OK017793.1Sarbecovirussp.isolateYN2020A
+                             |      \-|   \-|
+                             |        |      \-OK017792.1Sarbecovirussp.isolateGD2017F
+                             |        |
+                             |         \-FJ588686.1BatSARSCoVRs672/2006
+                             |
+                             |      /-MK211375.1CoronavirusBtRs-BetaCoV/YN2018A
+                             |   /-|
+                             |  |   \-KY417144.1BatSARS-likecoronavirusisolateRs4084
+                             |  |
+                             |  |   /-OK017858.1Sarbecovirussp.isolateYN2020H
+                              \-|  |
+                                |  |      /-KY417151.1BatSARS-likecoronavirusisolateRs7327
+                                |  |   /-|
+                                |  |  |  |   /-KY417146.1BatSARS-likecoronavirusisolateRs4231
+                                 \-|  |   \-|
+                                   |  |      \-KY417142.1BatSARS-likecoronavirusisolateAs6526
+                                   |  |
+                                   |  |         /-KY417150.1BatSARS-likecoronavirusisolateRs4874
+                                   |  |      /-|
+                                    \-|     |  |   /-KY417143.1BatSARS-likecoronavirusisolateRs4081
+                                      |     |   \-|
+                                      |   /-|      \-KY417148.1BatSARS-likecoronavirusisolateRs4247
+                                      |  |  |
+                                      |  |  |   /-KY417149.1BatSARS-likecoronavirusisolateRs4255
+                                      |  |   \-|
+                                      |  |     |   /-KY417152.1BatSARS-likecoronavirusisolateRs9401
+                                       \-|      \-|
+                                         |        |   /-KY417147.1BatSARS-likecoronavirusisolateRs4237
+                                         |         \-|
+                                         |            \-KF367457.1BatSARS-likecoronavirusWIV1
+                                         |
+                                          \-KY417145.1BatSARS-likecoronavirusisolateRf4092
