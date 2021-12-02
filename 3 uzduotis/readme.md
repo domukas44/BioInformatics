@@ -24,13 +24,13 @@ b)
 
 ![image](https://user-images.githubusercontent.com/26093035/144474820-1cc1a430-41a1-4e8e-87fd-6a87070f7818.png)
 
+Gauti 3 pikai.
 
 c)
 
 
 ![image](https://raw.githubusercontent.com/domukas44/BioInformatics/master/3%20uzduotis/4c.png)
 
-Gauti 3 pikai.
 
 5
 
