@@ -17,9 +17,20 @@ Sanger Phred+33.
 Nustačiau naudodamas „bioinfokit“ bilbioteką. Naudojau „analys.format.fq_qual_var(file)“ funkciją.
 
 b)
+
+
 ![image](https://user-images.githubusercontent.com/26093035/144474820-1cc1a430-41a1-4e8e-87fd-6a87070f7818.png)
 
 
+c)
 
 
 ![image](https://raw.githubusercontent.com/domukas44/BioInformatics/master/3%20uzduotis/4c.png)
+
+Gauti 3 pikai.
+
+5
+Staphylococcus aureus
+Escherichia coli
+Thermus thermophilus
+
